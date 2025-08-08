@@ -1,0 +1,10 @@
+[Keyboard]
+RepeatDelay=300
+RepeatRate=30
+
+[Libinput][2362][597][PNP0C50:08 093A:0255 Mouse]
+PointerAcceleration=-1.000
+PointerAccelerationProfile=1
+
+[Mouse]
+cursorTheme=Bibata-Modern-Classic
