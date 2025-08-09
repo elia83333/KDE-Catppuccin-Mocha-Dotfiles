@@ -3,4 +3,4 @@ This repository is FOSS (Free and Open Source Software). use, edit and share how
 
 some configs are edited by other people to  fit my needs, remember to edit stuff and not just copy paste and call it a day!
 
-! [overview](https://github.com/elia83333/KDE-Catppuccin-Mocha-Dotfiles/blob/main/pasted%20file.png)
+![overview](https://github.com/elia83333/KDE-Catppuccin-Mocha-Dotfiles/blob/main/pasted%20file.png)
